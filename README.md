@@ -6,12 +6,15 @@ I'm a passionate engineer and researcher with experience across **Biomedical eng
 
 ---
 
-## 🔬 Current Focus
+## 🔬 Interdisciplinary Focus Areas
 
-- 🧠 Computational Biology & Bioinformatics
-- 🛠️ 3D Printing & Additive Manufacturing
-- 🤖 Medical Robotics & Biomechanics
-- 💻 Scientific Computing & Data Analysis
+My work lives at the intersection of engineering, biology, and computing — bridging disciplines to solve real-world problems in medical technology.
+
+- 🧠 **Computational Biology & Bioinformatics** – leveraging data and algorithms to explore biological systems  
+- 🛠️ **3D Printing & Additive Manufacturing** – developing physical solutions for research, surgery, and prototyping  
+- 🤖 **Medical Robotics & Biomechanics** – combining mechanical design with human physiology for smarter interventions  
+- 💻 **Scientific Computing & Data Analysis** – using code and computation to drive discovery and innovation  
+
 
 ---
 
