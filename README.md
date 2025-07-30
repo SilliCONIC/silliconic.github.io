@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate engineer and researcher with experience across **biomedical engineering**, **3D printing**, and **computational biology**. Currently working at **Universitätsmedizin Göttingen** as a scientific researcher, I'm deeply involved in medical technology and digital surgery innovation.
+I'm a passionate engineer and researcher with experience across **Biomedical engineering**, **Additive Manufacturing**, and **Computational Biology**. Currently working at **Universitätsmedizin Göttingen** as a scientific researcher, I'm deeply involved in medical technology and digital surgery innovation.
 
 ---
 
