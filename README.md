@@ -32,18 +32,18 @@ Here you’ll find a mix of:
 
 My academic journey spans engineering, biomedical sciences, and computational biology — providing a uniquely interdisciplinary skill set:
 
-- 🇮🇷 **B.Sc. in Mechanical Engineering**  
-  *Islamic Azad University*  
-  Developed a strong foundation in engineering principles, mechanical design, and applied physics.
-
-- 🇮🇷 **M.Sc. in Biomedical Engineering**  
-  *Islamic Azad University, Science and Research Branch*  
-  Specialized in biomechanics and medical device development, with hands-on R&D experience in motion analysis systems and assistive technologies.
-
 - 🇩🇪 **M.Sc. in Computational Biology** *(in progress)*  
   *University of Göttingen, Germany*  
   Focused on bioinformatics, systems biology, and data-driven approaches to biological research.  
   Currently working as a Scientific Researcher at **Universitätsmedizin Göttingen**, where I bridge computational modeling with hardware prototyping — including surgical robotics, 3D-printed biomechanical tools, and digital surgery systems.
+
+- 🇮🇷 **M.Sc. in Biomedical Engineering**  
+  *Islamic Azad University, Science and Research Branch, Iran*  
+  Specialized in biomechanics and medical device development, with hands-on R&D experience in motion analysis systems and assistive technologies.
+  
+- 🇮🇷 **B.Sc. in Mechanical Engineering**  
+  *Islamic Azad University, Iran*  
+  Developed a strong foundation in engineering principles, mechanical design, and applied physics.
 
 This cross-disciplinary academic background empowers me to solve complex challenges at the intersection of biology, computing, and engineering.
 
