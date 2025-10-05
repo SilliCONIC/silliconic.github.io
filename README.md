@@ -83,7 +83,7 @@ Here you’ll find a mix of research-driven projects, hardware prototypes, and c
 ## 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samibeirami/)  
-- 📂 [Google Scholar](https://scholar.google.com/) *(if you want to add)*  
+- 📂 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en&oi=ao))
 - 💻 [GitHub Projects](https://github.com/SilliCONIC?tab=repositories)  
 - 📧 sami.beirami@live.com  
 - 🌍 Based in Göttingen, Germany  
