@@ -6,6 +6,8 @@ I design **data-driven workflows, embedded systems, and medical technologies** t
 ---
 
 ## 🔬 Interdisciplinary Focus Areas  
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-orange)
 
 My work lives at the intersection of science, engineering, and computing:  
 
@@ -83,7 +85,7 @@ Here you’ll find a mix of research-driven projects, hardware prototypes, and c
 ## 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/samibeirami/)  
-- 📂 [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en&oi=ao))
+- 📂 [Google Scholar](https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en&oi=ao)
 - 💻 [GitHub Projects](https://github.com/SilliCONIC?tab=repositories)  
 - 📧 sami.beirami@live.com  
 - 🌍 Based in Göttingen, Germany  
