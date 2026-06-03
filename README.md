@@ -1,15 +1,25 @@
+
 # 👋 Hi there, I'm Sami Beirami  
 
-Engineer & researcher bridging **computational biology, biomedical engineering, and digital surgery**.  
+Engineer & researcher bridging **computational biology, biomedical engineering, medical imaging, and digital surgery**.  
 I design **data-driven workflows, embedded systems, and medical technologies** that connect biology, computing, and engineering.  
+
+Currently, I am working on **hyperspectral and multispectral imaging** for biomedical and surgical research, with a focus on image acquisition, spectral data analysis, computer vision, and AI-assisted workflows.
 
 ---
 
 ## 🔬 Interdisciplinary Focus Areas  
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-purple)
+![Hyperspectral Imaging](https://img.shields.io/badge/Hyperspectral%20Imaging-indigo)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-orange)
 
 My work lives at the intersection of science, engineering, and computing:  
+
+- 🧬 **Hyperspectral & Multispectral Imaging**  
+  Biomedical imaging workflows, spectral data analysis, tissue characterization, image processing, and AI-assisted surgical decision support  
 
 - 🧠 **Computational Biology & Bioinformatics**  
   Genome analysis, sequencing pipelines, RNA-seq workflows, microbial genomics, statistical modeling  
@@ -18,16 +28,19 @@ My work lives at the intersection of science, engineering, and computing:
   CAD design, biomechanical models, and surgical training prototypes with advanced prototyping methods  
 
 - 🤖 **Robotics, Biomechanics & Embedded Systems**  
-  Development with single-board computers (Raspberry Pi, Rock 5B), hardware integration, mechanical design, and system control  
+  Development with single-board computers (Raspberry Pi, Rock 5B), hardware integration, camera systems, mechanical design, and system control  
 
 - 💻 **Scientific Computing & Data Analysis**  
-  Python (OpenCV, Qt), R, SQL, machine learning, deep learning, and visualization for complex biological & engineering datasets  
+  Python, OpenCV, Qt, R, SQL, machine learning, deep learning, and visualization for complex biological, medical imaging, and engineering datasets  
 
 ---
 
 ## 🧑‍🔬 Featured Projects & Contributions  
 
-Here you’ll find a mix of research-driven projects, hardware prototypes, and coding experiments:  
+Here you’ll find a mix of research-driven projects, medical imaging workflows, hardware prototypes, and coding experiments:  
+
+- 🧬 [**Hyperspectral & Multispectral Imaging for Biomedical Applications**](#)  
+  Image acquisition, preprocessing, spectral analysis, and deep-learning workflows for biomedical and surgical research.  
 
 - 🚑 [**Smart Surgical Toolbox**](#)  
   Embedded systems + GTK/Qt UI for real-time video capture, timing, and performance tracking in surgical training.  
@@ -36,7 +49,7 @@ Here you’ll find a mix of research-driven projects, hardware prototypes, and c
   Custom CAD models and additive manufacturing workflows to support digital surgery research.  
 
 - 🧬 [**Genomic Data Analysis Pipelines**](#)  
-  Tools for genome assembly, annotation, and comparative analysis (Python + R).  
+  Tools for genome assembly, annotation, and comparative analysis using Python and R.  
 
 - ⚙️ [**Python & Linux Utilities**](#)  
   Small productivity tools, video processing scripts, and embedded hardware integrations.  
@@ -74,8 +87,9 @@ Here you’ll find a mix of research-driven projects, hardware prototypes, and c
 
 ## 🛠️ Technical Skill Set  
 
-- **Programming & Data:** Python (OpenCV, Qt), R, SQL; Machine Learning & Deep Learning; Data Visualization  
-- **Engineering & Prototyping:** Embedded Systems (Raspberry Pi, Rock 5B), CAD Design, Additive Manufacturing, Mechanical Simulation, Hardware Prototyping, Device Testing  
+- **Programming & Data:** Python, OpenCV, Qt, R, SQL; Machine Learning & Deep Learning; Data Visualization  
+- **Medical Imaging & Computer Vision:** Hyperspectral Imaging, Multispectral Imaging, Image Processing, Spectral Data Analysis, Biomedical Image Analysis  
+- **Engineering & Prototyping:** Embedded Systems, Raspberry Pi, Rock 5B, CAD Design, Additive Manufacturing, Mechanical Simulation, Hardware Prototyping, Device Testing  
 - **Data Science & Bioinformatics:** Genome Sequencing, Assembly & Annotation; Comparative Genomics; RNA-seq; Computational Genomics  
 - **Business & Product:** Product Development, Product Strategy, Technical Product Management, Project Management, Sales Strategy, Business Development, Salesforce CRM  
 - **Languages:** English (C1 TOEFL), Persian (Native), German (Beginner)  
@@ -92,7 +106,6 @@ Here you’ll find a mix of research-driven projects, hardware prototypes, and c
 
 ---
 
-🚀 Always evolving — exploring new ways to merge **engineering, biology, and AI**.  
-Looking forward to **collaborations** in research, startups, and open-source projects.  
-
----
+🚀 Always evolving — exploring new ways to merge **engineering, biology, medical imaging, and AI**.  
+Looking forward to **collaborations** in research, startups, digital health, biomedical imaging, and open-source projects.  
+```
