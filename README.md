@@ -18,10 +18,10 @@ Currently, I am working on **hyperspectral and multispectral imaging** for biome
 
 My work lives at the intersection of science, engineering, and computing:  
 
-- 📸 **Hyperspectral & Multispectral Imaging**  
+- 🩻 **Hyperspectral & Multispectral Imaging**  
   Biomedical imaging workflows, spectral data analysis, tissue characterization, image processing, and AI-assisted surgical decision support  
 
-- 🧠 **Computational Biology & Bioinformatics**  
+- 🧬 **Computational Biology & Bioinformatics**  
   Genome analysis, sequencing pipelines, RNA-seq workflows, microbial genomics, statistical modeling  
 
 - 🛠️ **3D Printing & Additive Manufacturing**  
@@ -39,10 +39,10 @@ My work lives at the intersection of science, engineering, and computing:
 
 Here you’ll find a mix of research-driven projects, medical imaging workflows, hardware prototypes, and coding experiments:  
 
-- 🧬 [**Hyperspectral & Multispectral Imaging for Biomedical Applications**](#)  
+- 🩻 [**Hyperspectral & Multispectral Imaging for Biomedical Applications**](#)  
   Image acquisition, preprocessing, spectral analysis, and deep-learning workflows for biomedical and surgical research.  
 
-- 🚑 [**Smart Surgical Toolbox**](#)  
+- 🩺 [**Smart Surgical Toolbox**](#)  
   Embedded systems + GTK/Qt UI for real-time video capture, timing, and performance tracking in surgical training.  
 
 - 🦾 [**3D-Printed Surgical Fixtures**](#)  
