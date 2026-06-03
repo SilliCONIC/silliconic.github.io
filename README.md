@@ -18,7 +18,7 @@ Currently, I am working on **hyperspectral and multispectral imaging** for biome
 
 My work lives at the intersection of science, engineering, and computing:  
 
-- 🧬 **Hyperspectral & Multispectral Imaging**  
+- 📸 **Hyperspectral & Multispectral Imaging**  
   Biomedical imaging workflows, spectral data analysis, tissue characterization, image processing, and AI-assisted surgical decision support  
 
 - 🧠 **Computational Biology & Bioinformatics**  
