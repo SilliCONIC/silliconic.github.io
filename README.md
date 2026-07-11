@@ -1,3 +1,65 @@
+<div align="center">
+
+# Sami Beirami
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami%20Beirami-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samibeirami/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en&oi=ao)
+[![GitHub](https://img.shields.io/badge/GitHub-SilliCONIC-181717?logo=github&logoColor=white)](https://github.com/SilliCONIC?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-sami.beirami%40live.com-EA4335?logo=gmail&logoColor=white)](mailto:sami.beirami@live.com)
+
+</div>
+
+<table>
+<tr>
+<td width="42%" valign="top">
+
+
+<pre>
+      ███████╗ ██████╗
+      ██╔════╝ ██╔══██╗
+      ███████╗ ██████╔╝
+      ╚════██║ ██╔══██╗
+      ███████║ ██████╔╝
+      ╚══════╝ ╚═════╝
+
+</pre>
+
+</td>
+<td width="58%" valign="top">
+
+<pre>
+sami@github
+──────────────────────────────────────────────────────────────────────────────────
+Role ............ Scientific Researcher
+Where ........... HAWK Göttingen
+University ...... University of Göttingen
+Background ...... Biomedical Engineering
+                  Computatiaonal Biology and Bioinformatics
+                  Mechanical Engineering
+Location ........ Göttingen, Germany
+
+Focus ........... Hyperspectral Imaging
+                  Multispectral Imaging
+                  Computer Vision
+                  Bioinformatics
+                  Digital Surgery
+
+Code ............ Python, R, SQL
+Frameworks ...... OpenCV, Qt, ML/DL tools
+Hardware ........ Raspberry Pi, Rock 5B
+Engineering ..... Computer Aided Design
+                  3D Printing, Prototyping
+
+Languages ....... English, Persian
+Status .......... Building biomedical systems
+──────────────────────────────────────────────────────────────────────────────────
+</pre>
+
+</td>
+</tr>
+</table>
+
+
 
 # 👋 Hi there, I'm Sami Beirami  
 
