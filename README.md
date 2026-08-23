@@ -4,8 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami%20Beirami-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samibeirami/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en&oi=ao)
-[![GitHub](https://img.shields.io/badge/GitHub-SilliCONIC-181717?logo=github&logoColor=white)](https://github.com/SilliCONIC?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-SilliCONIC-181717?logo=github&logoColor=white)](https://github.com/SilliCONIC)
 [![Email](https://img.shields.io/badge/Email-sami.beirami%40live.com-EA4335?logo=gmail&logoColor=white)](mailto:sami.beirami@live.com)
+
 
 </div>
 
