@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sami Beirami — Scientific Researcher working across biomedical engineering, computational biology, medical imaging, computer vision, and digital surgery.">
+  <title>Sami Beirami</title>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <style>
+    :root {
+      --bg: #f7f9fc;
+      --surface: #ffffff;
+      --text: #18212f;
+      --muted: #667085;
+      --line: #e6eaf0;
+      --accent: #0969da;
+      --accent-soft: #eaf3ff;
+      --code-bg: #0d1117;
+      --code-text: #c9d1d9;
+      --radius: 16px;
+      --shadow: 0 12px 32px rgba(16, 24, 40, 0.08);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    a { color: inherit; }
+
+    .container {
+      width: min(1080px, calc(100% - 36px));
+      margin: 0 auto;
+    }
+
+    .hero {
+      padding: 78px 0 44px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-size: clamp(2.5rem, 7vw, 4.8rem);
+      line-height: 1;
+      letter-spacing: -0.05em;
+    }
+
+    .hero p {
+      max-width: 760px;
+      margin: 22px auto 0;
+      color: var(--muted);
+      font-size: 1.08rem;
+    }
+
+    .socials {
+      margin-top: 30px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+    }
+
+    .social {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      padding: 10px 15px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--surface);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 650;
+      box-shadow: 0 3px 10px rgba(16, 24, 40, 0.04);
+      transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+    }
+
+    .social:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 22px rgba(16, 24, 40, 0.10);
+      border-color: #cbd5e1;
+    }
+
+    .social i { font-size: 1.05rem; }
+
+    .terminal {
+      margin: 18px auto 54px;
+      max-width: 900px;
+      background: var(--code-bg);
+      color: var(--code-text);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .terminal-bar {
+      display: flex;
+      gap: 8px;
+      padding: 14px 16px;
+      border-bottom: 1px solid #21262d;
+    }
+
+    .dot { width: 11px; height: 11px; border-radius: 50%; background: #30363d; }
+
+    .terminal pre {
+      margin: 0;
+      padding: 24px;
+      overflow-x: auto;
+      font: 0.95rem/1.65 SFMono-Regular, Consolas, "Liberation Mono", monospace;
+      white-space: pre-wrap;
+    }
+
+    .terminal .key { color: #79c0ff; }
+    .terminal .value { color: #d2a8ff; }
+
+    section {
+      padding: 18px 0 48px;
+    }
+
+    .section-title {
+      margin: 0 0 18px;
+      font-size: 1.8rem;
+      letter-spacing: -0.025em;
+    }
+
+    .lead {
+      color: var(--muted);
+      max-width: 850px;
+      margin-top: 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 24px;
+      box-shadow: 0 5px 18px rgba(16, 24, 40, 0.045);
+    }
+
+    .card h3 {
+      margin: 0 0 7px;
+      font-size: 1.13rem;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 9px;
+      margin-top: 20px;
+    }
+
+    .tag {
+      padding: 7px 11px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: #0758b8;
+      font-size: 0.88rem;
+      font-weight: 650;
+    }
+
+    .timeline {
+      display: grid;
+      gap: 14px;
+    }
+
+    .timeline-item {
+      border-left: 3px solid var(--accent);
+      background: var(--surface);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 17px 20px;
+      border-top: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .timeline-item strong { display: block; }
+    .timeline-item span { color: var(--muted); }
+
+    footer {
+      padding: 26px 0 50px;
+      color: var(--muted);
+      text-align: center;
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 760px) {
+      .hero { padding-top: 54px; }
+      .grid { grid-template-columns: 1fr; }
+      .terminal pre { font-size: 0.83rem; padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <h1>Sami Beirami</h1>
+      <p>
+        Scientific Researcher working at the intersection of biomedical engineering,
+        computational biology, medical imaging, computer vision, and digital surgery.
+      </p>
+
+      <nav class="socials" aria-label="Professional links">
+        <a class="social" href="https://www.linkedin.com/in/samibeirami/" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-linkedin"></i> LinkedIn
+        </a>
+        <a class="social" href="https://scholar.google.com/citations?user=gykcrHsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-google-scholar"></i> Google Scholar
+        </a>
+        <a class="social" href="https://github.com/SilliCONIC" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-github"></i> GitHub
+        </a>
+        <a class="social" href="mailto:sami.beirami@live.com">
+          <i class="fa-solid fa-envelope"></i> Email
+        </a>
+      </nav>
+    </header>
+
+    <div class="terminal" aria-label="Profile summary">
+      <div class="terminal-bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+      <pre><span class="key">sami@github</span>
+──────────────────────────────────────────────────────────
+<span class="key">Role</span> ............ <span class="value">Scientific Researcher</span>
+<span class="key">Where</span> ........... HAWK Göttingen
+<span class="key">University</span> ...... University of Göttingen
+<span class="key">Background</span> ...... Biomedical Engineering
+                  Computational Biology & Bioinformatics
+                  Mechanical Engineering
+<span class="key">Location</span> ........ Göttingen, Germany
+
+<span class="key">Focus</span> ........... Hyperspectral Imaging
+                  Multispectral Imaging
+                  Computer Vision
+                  Bioinformatics
+                  Digital Surgery
+
+<span class="key">Code</span> ............ Python, R, SQL
+<span class="key">Frameworks</span> ...... OpenCV, Qt, ML/DL tools
+<span class="key">Hardware</span> ........ Raspberry Pi, Rock 5B
+<span class="key">Engineering</span> ..... CAD, 3D Printing, Prototyping
+──────────────────────────────────────────────────────────</pre>
+    </div>
+
+    <section>
+      <h2 class="section-title">About</h2>
+      <p class="lead">
+        I build data-driven workflows and engineering systems for biomedical research.
+        My current work focuses on hyperspectral and multispectral imaging, spectral data
+        analysis, computer vision, and AI-assisted surgical workflows.
+      </p>
+      <div class="tags">
+        <span class="tag">Python</span>
+        <span class="tag">Computer Vision</span>
+        <span class="tag">Medical Imaging</span>
+        <span class="tag">Hyperspectral Imaging</span>
+        <span class="tag">Bioinformatics</span>
+        <span class="tag">Machine Learning</span>
+        <span class="tag">Embedded Systems</span>
+        <span class="tag">3D Printing</span>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Interdisciplinary Focus</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>🩻 Hyperspectral & Multispectral Imaging</h3>
+          <p>Biomedical imaging workflows, spectral analysis, tissue characterization, image processing, and AI-assisted decision support.</p>
+        </article>
+        <article class="card">
+          <h3>🧬 Computational Biology & Bioinformatics</h3>
+          <p>Genome analysis, sequencing pipelines, RNA-seq, microbial genomics, statistical modelling, and reproducible scientific workflows.</p>
+        </article>
+        <article class="card">
+          <h3>🤖 Computer Vision & Embedded Systems</h3>
+          <p>OpenCV-based vision pipelines, camera systems, hardware integration, Raspberry Pi, Rock 5B, and real-time applications.</p>
+        </article>
+        <article class="card">
+          <h3>🛠️ Biomedical Engineering & Prototyping</h3>
+          <p>CAD, biomechanics, additive manufacturing, 3D-printed systems, prototyping, and device-oriented research.</p>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Academic Background</h2>
+      <div class="timeline">
+        <div class="timeline-item">
+          <strong>M.Sc. Computational Biology & Bioinformatics</strong>
+          <span>University of Göttingen · Germany</span>
+        </div>
+        <div class="timeline-item">
+          <strong>M.Sc. Biomedical Engineering — Biomechanics</strong>
+          <span>Islamic Azad University, Science & Research Branch · Iran</span>
+        </div>
+        <div class="timeline-item">
+          <strong>B.Sc. Mechanical Engineering</strong>
+          <span>Islamic Azad University · Iran</span>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Technical Toolkit</h2>
+      <div class="grid">
+        <article class="card"><h3>Programming & Data</h3><p>Python, R, SQL, scientific computing, data analysis, visualization, machine learning, and deep learning.</p></article>
+        <article class="card"><h3>Imaging & Vision</h3><p>OpenCV, hyperspectral imaging, multispectral imaging, biomedical image analysis, registration, and spectral processing.</p></article>
+        <article class="card"><h3>Engineering</h3><p>CAD, additive manufacturing, mechanical design, prototyping, hardware integration, device testing, and embedded systems.</p></article>
+        <article class="card"><h3>Bioinformatics</h3><p>Genome sequencing, assembly and annotation, comparative genomics, RNA-seq, and computational genomics.</p></article>
+      </div>
+    </section>
+
+    <footer>
+      © Sami Beirami · Göttingen, Germany
+    </footer>
+  </main>
+</body>
+</html>
